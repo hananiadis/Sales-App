@@ -1,0 +1,18 @@
+{
+  "name": "order_app",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "expo": "~50.0.0",
+    "expo-file-system": "~16.0.9",
+    "expo-location": "~16.5.5",
+    "papaparse": "^5.5.3",
+    "react": "18.2.0",
+    "react-native": "0.73.6"
+  }
+}

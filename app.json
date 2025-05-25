@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "7e701eb2-ea4a-4528-a618-d6539d00b3a3"
+      }
+    },
+    "android": {
+      "package": "com.hananiadis.order_app"
+    }
+  }
+}
