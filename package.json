@@ -8,9 +8,12 @@
     "ios": "expo run:ios"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "1.21.0",
     "expo": "~50.0.0",
+    "expo-dev-client": "~3.3.12",
     "expo-file-system": "~16.0.9",
     "expo-location": "~16.5.5",
+    "expo-media-library": "~15.9.2",
     "papaparse": "^5.5.3",
     "react": "18.2.0",
     "react-native": "0.73.6"
